@@ -1,0 +1,10 @@
+{
+  "name": "fpage",
+  "version": "0.0.1",
+  "description": "Stub module for when plantbox-compatible modules are loaded outside a plantbox.",
+  "author": "Liam Doherty",
+  "main": "main",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {}
+}
