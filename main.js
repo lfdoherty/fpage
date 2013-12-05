@@ -1,5 +1,5 @@
 
-var self = module.exports = global.page || {}
+var self = module.exports = typeof(global) !== 'undefined' ? global.page : {}
 self.server = false
 
 self.ready = function(cb){
